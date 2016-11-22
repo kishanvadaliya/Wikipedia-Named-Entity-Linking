@@ -9,6 +9,3 @@ https://www.slideshare.net/secret/poxNhmJVtZhWcw
 
 Video link - 
 https://youtu.be/e_TltENIMZM
-
-Github link - 
-https://github.com/GuptaSurbhi/Wikipedia-Named-Entity-Linking/edit/master/
