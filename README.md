@@ -79,4 +79,4 @@ Named Entity  ==========================>>>>>   West
 [ Zachód ] http://dbpedia.org/resource/Zachód
 [ Oeste ] http://dbpedia.org/resource/Oeste
 [ Запад ] http://dbpedia.org/resource/Запад
-[ 西 ] http://dbpedia.org/resource/西
+[ 西 ] http://dbpedia.org/resource/西 
