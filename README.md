@@ -2,7 +2,7 @@
 Wikipedia Named Entity Linking
 
 To run script - 
-python Code.py
+python NER_code.py
 
 Presentation link- 
 https://www.slideshare.net/secret/poxNhmJVtZhWcw
