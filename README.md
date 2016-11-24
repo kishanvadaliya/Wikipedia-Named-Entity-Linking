@@ -15,6 +15,7 @@ https://youtu.be/e_TltENIMZM
 SAMPLE OUTPUT OF CODE ->
 
 Named Entity  ==========================>>>>>   Real
+
 [ Real ] http://dbpedia.org/resource/Real
 [ Real ] http://dbpedia.org/resource/Real
 [ Real ] http://dbpedia.org/resource/Real
@@ -27,6 +28,7 @@ Named Entity  ==========================>>>>>   Real
 [ Реал ] http://dbpedia.org/resource/Реал
 
 Named Entity  ==========================>>>>>   Republic
+
 [ Republic ] http://dbpedia.org/resource/Republic
 [ جمهورية ] http://dbpedia.org/resource/جمهورية
 [ Republik ] http://dbpedia.org/resource/Republik
@@ -41,6 +43,7 @@ Named Entity  ==========================>>>>>   Republic
 [ 共和制 ] http://dbpedia.org/resource/共和制
 
 Named Entity  ==========================>>>>>   National
+
 [ National ] http://dbpedia.org/resource/National
 [ Nationale ] http://dbpedia.org/resource/Nationale
 [ National ] http://dbpedia.org/resource/National
@@ -50,6 +53,7 @@ Named Entity  ==========================>>>>>   National
 [ National ] http://dbpedia.org/resource/National
 
 Named Entity  ==========================>>>>>   Park
+
 [ Park ] http://dbpedia.org/resource/Park
 [ 公園 ] http://dbpedia.org/resource/公園
 [ Park ] http://dbpedia.org/resource/Park
@@ -63,6 +67,7 @@ Named Entity  ==========================>>>>>   Park
 [ 公园 ] http://dbpedia.org/resource/公园
 
 Named Entity  ==========================>>>>>   West
+
 [ West ] http://dbpedia.org/resource/West
 [ غرب ] http://dbpedia.org/resource/غرب
 [ Westen ] http://dbpedia.org/resource/Westen
